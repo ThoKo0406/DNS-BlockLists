@@ -1,0 +1,131 @@
+# For Websites: Focus Online, Chip, TVSPIELFILPLUS, BUNTE.de, Finanzen100, The Weather Channel, netmoms, EFAHRER.com, Fit for fun, cinema, BestCheck and cardscout
+
+#--- focus.de
+(^|\.)bf-ad\.net$
+(^|\.)bf-tools\.net$
+(^|\.)permutive\.com$
+(^|\.)focus\.de$
+(^|\.)auth0\.com$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+(^|\.)wfxtriggers\.com$
+(^|\.)cleverpush\.com$
+(^|\.)tvspielfilm\.de$
+(^|\.)netid\.de$
+#---- chip.de
+(^|\.)bf-ad\.net$
+(^|\.)bf-tools\.net$
+(^|\.)addefend\.com$
+(^|\.)permutive\.com$
+(^|\.)chip\.de$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+(^|\.)wfxtriggers\.com$
+(^|\.)netid\.de$
+#--- tvspielfilm.de
+(^|\.)bf-ad\.net$
+(^|\.)bf-tools\.net$
+(^|\.)permutive\.com$
+(^|\.)tvspielfilm\.de$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+(^|\.)cloudfront\.net$
+#--- bunte.de
+(^|\.)bf-ad\.net$
+(^|\.)bf-tools\.net$
+(^|\.)permutive\.com$
+(^|\.)bunte\.de$
+(^|\.)bfops\.io$
+(^|\.)images\.bstatic\.de$
+(^|\.)ioam\.de$
+#--- finanzen100.de
+(^|\.)bf-ad\.net$
+(^|\.)bf-tools\.net$
+(^|\.)googleapis\.com$
+(^|\.)optimizely\.com$
+(^|\.)privacy-mgmt\.com$
+(^|\.)s\.finanzen100\.de$
+(^|\.)cloudflare\.com$
+(^|\.)finanzen100\.de$
+(^|\.)cloudinary\.com$
+(^|\.)gstatic\.com$
+(^|\.)kerlundcie\.de$
+(^|\.)outbrainimg\.com$
+(^|\.)youtube\.com$
+(^|\.)stripe\.com$
+(^|\.)finanzen100\.de$
+(^|\.)optimizely\.com$
+(^|\.)outbrain\.com$
+(^|\.)outbrain\.com$
+(^|\.)newzpool\.de$
+(^|\.)focus\.de$
+(^|\.)hotjar\.com$
+(^|\.)hotjar\.com$
+(^|\.)unpkg\.com$
+(^|\.)outbrain\.com$
+#--- weather.com
+(^|\.)safeframe\.googlesyndication\.com$
+(^|\.)go-mpulse\.net$
+(^|\.)confiant-integrations\.net$
+(^|\.)polyfill\.io$
+(^|\.)trustarc\.com$
+(^|\.)truste\.com$
+(^|\.)instana\.io$
+(^|\.)weather\.com$
+(^|\.)doubleclick\.net$
+(^|\.)googlesyndication\.com$
+(^|\.)w-x\.co$
+(^|\.)g\.doubleclick\.net$
+(^|\.)appsflyer\.com$
+#--- netmoms.de
+(^|\.)bf-ad\.net$
+(^|\.)bf-tools\.net$
+(^|\.)permutive\.com$
+(^|\.)netmoms\.de$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+(^|\.)chip\.de$
+(^|\.)contentlounge\.net$
+(^|\.)wfxtriggers\.com$
+#--- efahrer.com
+(^|\.)bf-tools\.net$
+(^|\.)outbrain\.com$
+(^|\.)permutive\.com$
+(^|\.)efahrer\.chip\.de$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+(^|\.)chip\.de$
+(^|\.)efahrer\.com$
+(^|\.)algolia\.net$
+(^|\.)focus\.de$
+(^|\.)wfxtriggers\.com$
+#---fitforfun.de
+(^|\.)bf-ad\.net$
+(^|\.)bf-tools\.net$
+(^|\.)fitforfun\.de$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+(^|\.)googlesyndication\.com$
+#--- cinema.de
+(^|\.)bf-ad\.net$
+(^|\.)cinema\.de$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+(^|\.)svonm\.com$
+(^|\.)2mdn\.net$
+(^|\.)cleverpush\.com$
+(^|\.)fontawesome\.com$
+#--- bestcheck.de
+(^|\.)bf-ad\.net$
+(^|\.)bf-tools\.net$
+(^|\.)bestcheck\.de$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+#--- cardscout.de
+(^|\.)cardscout\.de$
+(^|\.)bfops\.io$
+(^|\.)privacy-mgmt\.com$
+(^|\.)cloudfront\.net$
+(^|\.)googleadservices\.com$
+(^|\.)ioam\.de$
+
