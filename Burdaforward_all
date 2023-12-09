@@ -41,7 +41,6 @@
 # --- finanzen100.de
 (^|\.)bf-ad\.net$
 (^|\.)bf-tools\.net$
-(^|\.)googleapis\.com$
 (^|\.)optimizely\.com$
 (^|\.)privacy-mgmt\.com$
 (^|\.)s\.finanzen100\.de$
@@ -51,7 +50,6 @@
 (^|\.)gstatic\.com$
 (^|\.)kerlundcie\.de$
 (^|\.)outbrainimg\.com$
-(^|\.)youtube\.com$
 (^|\.)stripe\.com$
 (^|\.)newzpool\.de$
 (^|\.)focus\.de$
